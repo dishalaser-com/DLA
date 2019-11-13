@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DishaLaser</string>
+    <string name="signIn_btn">Sign In</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="id">ID</string>
+    <string name="signOut_btn">Sign Out</string>
+
+
+</resources>
