@@ -23,6 +23,7 @@ public class SignInActivity extends AppCompatActivity {
     @Override
     protected void onStart() {
         super.onStart();
+
         GoogleSignInAccount account = GoogleSignIn.getLastSignedInAccount(this);
 //        updateUI(account);
         //code if user is already signed in
